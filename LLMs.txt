@@ -1,0 +1,25 @@
+# Komunitas Belajar Civics
+
+&gt; Sumber informasi pendidikan Indonesia yang membahas kurikulum, kalender pendidikan, regulasi pendidikan, regulasi kepegawaian, regulasi pemerintahan, perangkat pembelajaran, Latihan Soal TKA Latihan Soal US USP. Latihan Soal SAS ASAS, Latihan Soal SAT ASAT, informasi lomba serta Info Guru.
+
+## Website
+
+- [Beranda](https://www.komunitasbelajar.id): Halaman utama situs.
+
+## Konten Utama
+
+- [Kalender Pendidikan](https://www.komunitasbelajar.id/search/label/Kalender%20Pendidikan): Informasi kalender pendidikan terbaru.
+- [Kurikulum](https://www.komunitasbelajar.id/search/label/Kurikulum): Artikel tentang kurikulum merdeka.
+- [Regulasi Pemerintahan](https://www.komunitasbelajar.id/search/label/Permendagri): Peraturan dan kebijakan Pemerintahan.
+- [Regulasi Kepegawaian](https://www.komunitasbelajar.id/search/label/Permenpan): Peraturan dan kebijakan Pegawai ASN.
+- [Regulasi Pendidikan](https://www.komunitasbelajar.id/search/label/Permendikdasmen): Peraturan dan kebijakan pendidikan.
+- [Latihan Soal TKA](https://www.komunitasbelajar.id/search/label/TKA): Latihan Soal TKA SD SMP SMA.
+- [Latihan Soal US USP](https://www.komunitasbelajar.id/search/label/US%20USP%20ASSP%20PSSP%20ASAJ%20PSAJ): Latihan Soal Ujian Sekolah US USP SD SMP SMA SMK.
+- [Latihan Soal SAT ASAT](https://www.komunitasbelajar.id/search/label/SAT): Peraturan dan kebijakan Pemerintahan.
+- [Latihan Soal SAS ASAS](https://www.komunitasbelajar.id/search/label/ASAS): Peraturan dan kebijakan Pegawai ASN.
+- [Regulasi Pendidikan](https://www.komunitasbelajar.id/search/label/Info%20Lomba): Artikel berisi Informasi Lomba untuk Siswa dan Guru.
+- [Regulasi Pendidikan](https://www.komunitasbelajar.id/search/label/info%20guru): Artikel berisi Informasi Penting untuk Guru.
+
+## Kontak
+
+- [Halaman Kontak](https://www.komunitasbelajar.id/p/kontak.html): Hubungi pengelola situs.
